@@ -1,15 +1,8 @@
-<div align="center">
+Hi, hi!
 
-```none
-___  ___     _ _            ___  ____ _         
-|  \/  |    | (_)           |  \/  (_) |        
-| .  . | ___| |_  __ _ _ __ | .  . |_| | _____  
-| |\/| |/ _ \ | |/ _` | '_ \| |\/| | | |/ / _ \ 
-| |  | |  __/ | | (_| | | | | |  | | |   < (_) |
-\_|  |_/\___|_|_|\__,_|_| |_\_|  |_/_|_|\_\___/ 
-                                                
-```
+[🌍 My Website (EN)](https://melianmiko.ru/en) |
+[❤️ Make a donation](https://melianmiko.ru/en/donate/) |
+[Me on 4PDA](https://4pda.to/forum/index.php?showuser=9512256)
 
-[Homepage](https://melianmiko.ru) | [Donate](https://melianmiko.ru/donate/)
-</div>
-
+Please note that English isn't my native language, and I can make some
+mistakes in messages and texts =)
